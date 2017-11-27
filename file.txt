@@ -1,1 +1,6 @@
-this is going to be deleted
+1
+<<<<<<< HEAD
+2
+=======
+2
+>>>>>>> master
