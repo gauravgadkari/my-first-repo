@@ -1,1 +1,5 @@
- i am in new branch
+<<<<<<< HEAD
+i am in master
+=======
+ i am in master
+>>>>>>> new-branch
